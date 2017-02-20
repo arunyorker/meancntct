@@ -1,0 +1,38 @@
+.notes{
+	width: 250px;
+	min-height: 250px;
+	background-color:#2196F3;
+	float:left;
+	margin: 10px;
+	color:#fff;
+}
+textarea {
+  background-color : #2196F3;
+  border: 0px; 
+  overflow: none;
+  resize:none;
+  height: 245px;
+  width:250px;
+  word-wrap: break-word;
+}
+.noteBlock {
+    min-height: 250px;
+    word-wrap: break-word;
+    padding: 10px;
+}
+.btn{
+  width:50%;
+}
+.btn-info{
+width: 35%;
+}
+body{
+  background-color: #212121;
+}
+h1{
+  text-align: center;
+  color:#fff;
+}
+p{
+  text-align: center;
+}
